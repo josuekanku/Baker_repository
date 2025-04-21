@@ -20,14 +20,8 @@ return new class extends Migration
         });
     }
 
-    /**php artisan make:model Fournisseur
-php artisan make:model Client
-php artisan make:model Produit
-php artisan make:model Employe
-php artisan make:model Vente
-php artisan make:model Achat
-php artisan make:model Audit
-php artisan make:model Caisse
+    /**
+
      * Reverse the migrations.
      */
     public function down(): void
